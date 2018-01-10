@@ -4,6 +4,3 @@ C:\Users\Alex\Desktop\Programing Basics\Complex Conditional Statements\01. Perso
 C:\Users\Alex\Desktop\Programing Basics\Complex Conditional Statements\01. Personal Titles\obj\Debug\01. Personal Titles.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Desktop\Programing Basics\Complex Conditional Statements\01. Personal Titles\obj\Debug\_01.Personal_Titles.exe
 C:\Users\Alex\Desktop\Programing Basics\Complex Conditional Statements\01. Personal Titles\obj\Debug\_01.Personal_Titles.pdb
-C:\Users\Alex\Desktop\GitHub\SoftUni\C#\Programming Basics C#\Complex Conditional Statements\01. Personal Titles\bin\Debug\_01.Personal_Titles.exe.config
-C:\Users\Alex\Desktop\GitHub\SoftUni\C#\Programming Basics C#\Complex Conditional Statements\01. Personal Titles\obj\Debug\_01.Personal_Titles.exe
-C:\Users\Alex\Desktop\GitHub\SoftUni\C#\Programming Basics C#\Complex Conditional Statements\01. Personal Titles\obj\Debug\_01.Personal_Titles.pdb
