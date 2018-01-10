@@ -1,0 +1,1 @@
+C:\Users\Alex\Desktop\Programing Basics C#\Drawing Figures with Loops\01.Rectangle of 10 x 10 Stars\bin\Debug\01.Rectangle of 10 x 10 Stars.exe.config
