@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\04. Triangle of 55 Stars\bin\Debug\_04.Triangle_of_55_Stars.exe.config
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\04. Triangle of 55 Stars\bin\Debug\_04.Triangle_of_55_Stars.exe
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\04. Triangle of 55 Stars\bin\Debug\_04.Triangle_of_55_Stars.pdb
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\04. Triangle of 55 Stars\obj\Debug\_04.Triangle_of_55_Stars.exe
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\04. Triangle of 55 Stars\obj\Debug\_04.Triangle_of_55_Stars.pdb
+C:\Users\Alex\Desktop\Programing Basics\First Steps in Coding\04. Triangle of 55 Stars\bin\Debug\_04.Triangle_of_55_Stars.exe.config
+C:\Users\Alex\Desktop\Programing Basics\First Steps in Coding\04. Triangle of 55 Stars\obj\Debug\_04.Triangle_of_55_Stars.exe
+C:\Users\Alex\Desktop\Programing Basics\First Steps in Coding\04. Triangle of 55 Stars\obj\Debug\_04.Triangle_of_55_Stars.pdb

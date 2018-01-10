@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\03. Nums 1...20\bin\Debug\_03.Nums_1._._._20.exe.config
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\03. Nums 1...20\bin\Debug\_03.Nums_1._._._20.exe
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\03. Nums 1...20\bin\Debug\_03.Nums_1._._._20.pdb
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\03. Nums 1...20\obj\Debug\_03.Nums_1._._._20.exe
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\03. Nums 1...20\obj\Debug\_03.Nums_1._._._20.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\06. Square of Stars\bin\Debug\_06.Square_of_Stars.exe.config
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\06. Square of Stars\bin\Debug\_06.Square_of_Stars.exe
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\06. Square of Stars\bin\Debug\_06.Square_of_Stars.pdb
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\06. Square of Stars\obj\Debug\06. Square of Stars.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\06. Square of Stars\obj\Debug\_06.Square_of_Stars.exe
+C:\Users\Alex\Desktop\SoftUni All Projects\First Steps in Coding\06. Square of Stars\obj\Debug\_06.Square_of_Stars.pdb
