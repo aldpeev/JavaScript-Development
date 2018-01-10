@@ -1,4 +1,4 @@
 # SoftUni
 SoftUni Exercises
 
-Here I will upload most of the exercises I have done while studying at Software University 
+Here are most of the exercises I have done while studying at Software University. I will upload each new course that I complete in this repo 
