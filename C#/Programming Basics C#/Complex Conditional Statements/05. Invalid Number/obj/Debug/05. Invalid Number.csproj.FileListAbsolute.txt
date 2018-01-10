@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\Programing Basics\Complex Conditional Statements\05. Invalid Number\bin\Debug\_05.Invalid_Number.exe.config
+C:\Users\Alex\Desktop\Programing Basics\Complex Conditional Statements\05. Invalid Number\bin\Debug\_05.Invalid_Number.exe
+C:\Users\Alex\Desktop\Programing Basics\Complex Conditional Statements\05. Invalid Number\bin\Debug\_05.Invalid_Number.pdb
+C:\Users\Alex\Desktop\Programing Basics\Complex Conditional Statements\05. Invalid Number\obj\Debug\_05.Invalid_Number.exe
+C:\Users\Alex\Desktop\Programing Basics\Complex Conditional Statements\05. Invalid Number\obj\Debug\_05.Invalid_Number.pdb
