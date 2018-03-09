@@ -1,3 +1,0 @@
-D:\SoftUni\Programming Basics\07.Loops\Homework\24.Bit Roller\bin\Debug\24.exe.config
-D:\SoftUni\Programming Basics\07.Loops\Homework\24.Bit Roller\obj\Debug\24.exe
-D:\SoftUni\Programming Basics\07.Loops\Homework\24.Bit Roller\obj\Debug\24.pdb
